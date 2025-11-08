@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const message = confirm('Should I calculate the square root?');
 

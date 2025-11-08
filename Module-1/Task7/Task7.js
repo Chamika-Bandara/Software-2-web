@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const rolls = parseInt(prompt('Enter the Number of dice rolls you want: '));
 

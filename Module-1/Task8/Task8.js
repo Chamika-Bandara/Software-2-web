@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 
 const start = parseInt(prompt('Enter the starting year: '));

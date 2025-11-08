@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const randomNumber = Math.floor(Math.random()*4) +1;
 
